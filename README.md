@@ -23,6 +23,14 @@ I design and ship production-shaped software end to end, full-stack web applicat
 
 📥 **Reach me:** shubh.saxena2020@gmail.com
 
+## Recent
+
+- **TrustShield AI** (private repository): scam and phishing analyzer for Hinglish messages, URLs, screenshots and QR codes, built with Python, FastAPI, Next.js, Tesseract OCR and OpenCV. Presented as Team Scam Scan at the PSIT Tech Expo 2026 Grand Finale; Semi-Final Round at Catalyst Hack 2026.
+- **Disha Voice**: offline, Hindi-first Android accessibility research prototype (Kotlin, CameraX, LiteRT). Not tested on a physical device yet. https://github.com/shubhsaxena2020/disha-voice
+- **HackerRank Orchestrate** (October 2026): built and deployed an AI agent; final rank #446 of 4,094.
+- **be10X AI Tools & Claude Workshop** (October 2026): certificate of completion.
+- **Freelance**: production websites for local businesses with React, Next.js, Tailwind CSS and Vercel.
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
